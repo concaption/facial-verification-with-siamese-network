@@ -1,3 +1,6 @@
 data/
 lfw.tgz
 lfw/
+training_checkpoints/
+siamese_model.h5
+application_data/
